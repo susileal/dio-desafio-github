@@ -18,11 +18,13 @@ Obs: são diferentes, mas se complemetam.
 # COMANDOS BÁSICOS
 
 - Windows  
-    cd - Permite a navegação entre as pastas;
-    dir - trás listas de diretórios contido na pasta que está situado;
-    mkdir - cria uma nova pasta;
+1. cd - Permite a navegação entre as pastas;
+2. dir - trás listas de diretórios contido na pasta que está situado;
+3. mkdir - cria uma nova pasta;
+4. del - deleta um aququivo e não um repositório;
+5. rmdir - deleta todo o repositório.
 
 - Linux
-    cd - Permite a navegação entre as pastas;
-    ls -  trás listas de diretórios contido na pasta que está situado;
-    mkdir - cria uma nova pasta;
+1. cd - Permite a navegação entre as pastas;
+2. ls -  trás listas de diretórios contido na pasta que está situado;
+3. mkdir - cria uma nova pasta;
